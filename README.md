@@ -8,7 +8,9 @@ This is a try to create an object detection react app. I used pretrained
 
 
 ## Demo
-<img src"image/banana.png" width="200">
+<img src="Images/banana.png" width="400">
+<img src="Images/mobile.png" width="400">
+<img src="Images/person.png" width="400">
 
 
 
