@@ -14,10 +14,19 @@ This is a try to create an object detection react app. I used pretrained
 
 
 
+https://user-images.githubusercontent.com/20268365/165845277-90e0188d-eaa4-4973-ab65-95b66b979e9c.mp4
+
+
+
+
 ## Setup
 Install webcam component using.
 
 `npm install react-webcam`
+
+
+
+
 
 Install Tensoeflow.js using
 
